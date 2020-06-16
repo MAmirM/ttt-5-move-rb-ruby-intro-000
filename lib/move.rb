@@ -12,5 +12,5 @@ def input_to_index(string)
 end
 
 def move
-  
+
 end
